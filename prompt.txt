@@ -1,0 +1,6 @@
+Build the make.fun entry "Warning Label for Humans: One Line, Big Laugh".
+Write main.py (Python 3.13, deterministic, no network) that writes one single-line
+safety warning label for every human being, at most 160 characters, funny first
+and plausible second, to /output/entry.txt. Include README.md, LICENSE (MIT),
+and .gitignore, then git init, commit, and push to the public GitHub repo
+georgeonweb3/makefun-warning-label.
